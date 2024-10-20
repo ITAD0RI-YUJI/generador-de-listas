@@ -8,6 +8,10 @@
 Este proyecto tiene como objetivo realizar una plaraforma web (básica) donde cada usuario que ingrese y se cree una cuenta, pueda crear sus propias listas de pendientes.<br>
 
 ## Tecnologías a usar
+
+>[!WARNING]
+>Puede que algunas no se usen o cambien a lo largo del desarrollo.
+
 * **HTML5**
 Se hará uso de HTML para poder realizar la estructura de la plataforma (el esqueleto de la página, la forma en la que va a estar esstructurada)<br><br>
 

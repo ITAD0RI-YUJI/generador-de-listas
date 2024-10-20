@@ -1,6 +1,9 @@
 # Generador de listas ToDo
 ----------------
 
+>[!IMPORTANT]
+>Si eres alguien que de pura casualidad está mirando este proyecto por algun motivo, te agradecería que pudieras pegarle un ojo al código hasta donde se ha publicado, si llegas a encontrar algo que se podría mejorar, agregar, etc, te agradecería mucho que me lo hicieras saber, me gustaría mejorar bastante XD.Gracias por ver.<br><br>
+
 ## Objetivo del proyecto
 Este proyecto tiene como objetivo realizar una plaraforma web (básica) donde cada usuario que ingrese y se cree una cuenta, pueda crear sus propias listas de pendientes.<br>
 
@@ -18,6 +21,9 @@ El uso de JavaScript tiene como objetivo darle a la plataforma web la parte din�
 El uso de SQL tendrá como objetivo el poder implementar una base de datos (básica) donde se podrá almacenar diversos datos de los usuarios (información básica).
 > [!NOTE]
 > El uso de esta tecnología está en duda debido a la falta de experiencia (sé SQL básico, debo mejorar), sin embargo, se implementará en algún punto a lo largo del desarrollo del la plataforma.<br><br>
+
+* **Git**
+El uso de esta tecnología tiene como objetivo poder lograr el versionamiento del proyecto y poder tener un mejor desarrollo (tengo que mejorar)
 
 ## Paleta de colores
 * **Pendiente**

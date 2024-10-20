@@ -28,7 +28,8 @@ El uso de esta tecnología tiene como objetivo poder lograr el versionamiento de
 * **Plant UML**
 Para poder lograr hacer los diagramas del proyecto (se secuencia, clases, estados, etc) se hará uso de PlantUML.<br><br>
 
-Puede que algunas de estas cosas no sean necesarias ponerlas, pero lo pongo como un modo de registro por si llego a terminar esto y poder mirar al pasado XD. La idea también es aplicar todo lo que he aprendido en la Universidad y como de forma autodidacta<br><br>
+>[!TIP]
+>Puede que algunas de estas cosas no sean necesarias ponerlas, pero lo pongo como un modo de registro por si llego a terminar esto y poder mirar al pasado XD. La idea también es aplicar todo lo que he aprendido en la Universidad y como de forma autodidacta<br><br>
 
 ## Paleta de colores
 * **Pendiente**

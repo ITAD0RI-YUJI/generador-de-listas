@@ -41,5 +41,5 @@ Para la paleta de colores se usarán los siguientes colores:<br>
 * `#2A5852`<br><br>
 * `#5AC3A5`<br><br>
 * `#F1ECCE`<br><br>
-* `#F85A48`<br><br>
-* `Colocar el negro`<br><br>
+* `#BD0D17`<br><br>
+* `##1d1d1d`<br><br>

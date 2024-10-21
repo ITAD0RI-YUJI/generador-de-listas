@@ -36,4 +36,10 @@ Para poder lograr hacer los diagramas del proyecto (se secuencia, clases, estado
 >Puede que algunas de estas cosas no sean necesarias ponerlas, pero lo pongo como un modo de registro por si llego a terminar esto y poder mirar al pasado XD. La idea también es aplicar todo lo que he aprendido en la Universidad y como de forma autodidacta<br><br>
 
 ## Paleta de colores
-* **Pendiente**
+Para la paleta de colores se usarán los siguientes colores:<br>
+* `#0F2A3D`<br><br>
+* `#2A5852`<br><br>
+* `#5AC3A5`<br><br>
+* `#F1ECCE`<br><br>
+* `#F85A48`<br><br>
+* `Colocar el negro`<br><br>

@@ -1,0 +1,20 @@
+:root{
+    --blue: #0F2A3D;
+    --aquarela: #2A5852;
+    --green:#5AC3A5;
+    --beige: #F1ECCE;
+    --rojo: #BD0D17;
+    --negro: #1d1d1d;
+}
+
+body{
+    background-color: var(--negro);
+    /* background-image: var(--bg);
+    background-size: cover; */
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    min-height: 100vh;
+}

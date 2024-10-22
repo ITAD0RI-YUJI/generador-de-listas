@@ -7,10 +7,38 @@
 
     <link rel="icon" href="../multimedia/principalIcon.ico">
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500;600&display=swap" rel="stylesheet">
+
     <link rel="stylesheet" href="../styles/reset.css">
     <link rel="stylesheet" href="../styles/bases.css">
+    <link rel="stylesheet" href="../styles/form.css">
 </head>
 <body style="--bg: url('../multimedia/luffy.gif');">
     
+    <div class="container">
+        <h2 class="container_title">inicio de sesión</h2>
+
+        <form action="" class="form">
+            <fieldset class="form_fieldset form_fieldset--input">
+                <div class="form_div form_usuario-name-container">
+                    <input type="text" class="form_input" id="form_input--usuario" required>
+                    <label for="form_input--usuario" class="form_label">Nombre de usuario</label>
+                </div>
+    
+                <div class="form_div form_usuario-password-container">
+                    <input type="password" class="form_input" id="form_input--password" required>
+                    <label for="form_input--password" class="form_label">Contraseña</label>
+                </div>
+            </fieldset>
+    
+            <fieldset class="form_fieldset form_fieldset--btn">
+                <input type="button" class="form_btn form_btn--submit" value="entrar">
+                <input type="reset" class="form_btn form_btn--reset" value="borrar">
+            </fieldset>
+        </form>
+    </div>
+
 </body>
 </html>

@@ -5,9 +5,14 @@
     --beige: #F1ECCE;
     --rojo: #BD0D17;
     --negro: #1d1d1d;
+    --oscuro: #0f0f0f;
+    --white: #FFFFFF;
+
+    --font: 'Quicksand', sans-serif;
 }
 
 body{
+    font-family: var(--font);
     background-color: var(--negro);
     /* background-image: var(--bg);
     background-size: cover; */
@@ -17,4 +22,9 @@ body{
     justify-content: center;
 
     min-height: 100vh;
+}
+
+input{
+    border: none;
+    outline: none;
 }
